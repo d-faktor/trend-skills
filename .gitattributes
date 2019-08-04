@@ -1,2 +1,2 @@
-d3.layout.cloud.js
-d3.v2.js
+* linguist-vendored
+*.js linguist-vendored=false
