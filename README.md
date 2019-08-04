@@ -24,3 +24,7 @@ If you want to make some pull-request in this repository, please, contact me in 
 ## Authors
 
 * **Daria Faktorovich** - *Initial work* - [d-faktor](https://github.com/d-faktor)
+
+## Acknowledgments
+
+* d3.layout.cloud.js and d3.v2.js from https://www.coursera.org/specializations/python
